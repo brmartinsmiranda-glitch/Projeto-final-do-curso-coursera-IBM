@@ -29,8 +29,6 @@ Neste projeto, abordamos os seguintes passos:
 
 ## Como Executar
 
-Clone este repositório:
+Copie este repositório:
 
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-├─ README.md              ← este arquivo  
-└─ requirements.txt       ← lista de bibliotecas (opcional)  
