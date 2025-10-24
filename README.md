@@ -27,7 +27,6 @@ Neste projeto, abordamos os seguintes passos:
 3. Análise exploratória  
 4. Visualização   
 
-
 ## Como Executar
 
 Clone este repositório:
